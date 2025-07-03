@@ -63,3 +63,14 @@ The dataset contains public information on global tech layoffs, including detail
 - Identified companies with 100% layoffs
 
 - Temporal trend analysis (`month`, `total_laid_off`)
+
+## Tools Used
+- SQL (MySQL syntax)
+- Kaggle (for dataset)
+- Spreadsheet (for initial review)
+
+## Sample Findings
+- Top 5 companies with the highest layoffs include major unicorns and late-stage startups.
+- Crypto and eCommerce industries had the highest layoffs by volume.
+- Peak layoff months clustered around Q1 2023, coinciding with funding slowdowns.
+- Startups in Series C and IPO stages were hit harder.
